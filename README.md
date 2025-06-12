@@ -43,7 +43,7 @@ project/
 1. Clone the Repository
 
 https://github.com/pritamchaudhary/DLC_Website.git
-cd project-bolt
+cd project
 
 2. Install Dependencies
 npm run dev
