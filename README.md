@@ -42,7 +42,7 @@ project/
 🚀 Getting Started
 1. Clone the Repository
 
-git clone https://github.com/your-username/project-bolt.git
+https://github.com/pritamchaudhary/DLC_Website.git
 cd project-bolt
 
 2. Install Dependencies
