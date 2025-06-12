@@ -1,4 +1,4 @@
-# 🚀 Project Bolt
+
 
 A sleek and fast front-end application built with **Vite**, **React (TypeScript)**, and **Tailwind CSS**. This project features interactive pages like AI Chat, Tutorials, and a Home dashboard, potentially for an educational or digital literacy campaign.
 
