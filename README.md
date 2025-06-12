@@ -1,41 +1,56 @@
-Project Description
-DLC_Website is a clean and visually appealing website developed using modern web technologies. It leverages TypeScript and JavaScript for dynamic functionality, Tailwind CSS for efficient styling, and Vite for fast build and development experience.
+# 🚀 Project Bolt
 
-Technologies Used
-HTML — Structuring the webpage
-TypeScript — Type-safe scripting
-JavaScript — Dynamic interactions
-Tailwind CSS — Utility-first CSS framework
-Vite — Rapid build tool and development server
+A sleek and fast front-end application built with **Vite**, **React (TypeScript)**, and **Tailwind CSS**. This project features interactive pages like AI Chat, Tutorials, and a Home dashboard, potentially for an educational or digital literacy campaign.
 
-Prerequisites
-Make sure you have the following installed:
+## 🌟 Features
 
-Node.js (version 14 or above)
-Download Node.js
+- ⚡ Lightning-fast development with Vite
+- 🎨 Styled using Tailwind CSS
+- 🔍 Components-based structure for scalability
+- 🤖 AI Chat Interface
+- 📚 Tutorials Page
+- 🏠 Home Page
+- 💬 Built for intuitive digital interaction
 
-npm (comes with Node.js)
+## 🛠️ Tech Stack
 
-Installation
-Clone the repository:
-git clone https://github.com/pritamchaudhary/DLC_Website.git
-cd DLC_Website
+- **React** (with TypeScript)
+- **Vite** (bundler)
+- **Tailwind CSS** (utility-first styling)
+- **ESLint** (linting)
+- **PostCSS** (CSS transformation)
+- **Node.js & NPM** (package management)
 
-Install dependencies:
-npm install
+## 📂 Project Structure
 
-Usage
-Development Server
-Start the local development server:
+```bash
+project/
+├── src/
+│   ├── components/
+│   │   ├── AIChatPage.tsx
+│   │   ├── TutorialsPage.tsx
+│   │   └── HomePage.tsx
+│   ├── index.css
+│   ├── App.tsx
+│   └── main.tsx
+├── index.html
+├── tailwind.config.js
+├── postcss.config.js
+├── package.json
+└── vite.config.ts
 
-bash
+🚀 Getting Started
+1. Clone the Repository
+
+git clone https://github.com/your-username/project-bolt.git
+cd project-bolt
+
+2. Install Dependencies
 npm run dev
-Open your browser and navigate to the provided local URL (usually http://localhost:3000) to see the website in action.
 
-Building for Production
-To create an optimized build:
-
-bash
+4. Build for Production
 npm run build
-The build output will be in the dist directory, ready for deployment.
+
+📄 License
+This project is licensed under the MIT License.
 
